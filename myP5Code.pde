@@ -15,6 +15,7 @@ draw = function() {
 
     if(mousePressed){
         labelCanvas();
+        text("BOOM", 200,200);
     }
 };
 
